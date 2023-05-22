@@ -19,7 +19,9 @@ Qn2. WHat is a Monolith Architecture?
 
 Qn3. Diff btw Monolith and microservice
 
-- ![image]([https://github.com/Sonia0612/Assignment-6-Exploring-The-World/assets/86123814/3a7748dd-bcbc-4fd3-bb36-b8befa9f1c74](https://github.com/Sonia0612/Assignment-6-Exploring-The-World/assets/86123814/3a7748dd-bcbc-4fd3-bb36-b8befa9f1c74))
+![image](https://github.com/Sonia0612/Assignment-6-Exploring-The-World/assets/86123814/2c1ab4ed-8548-4655-8b6c-b890477c8fdf)
+
+
 
 Qn4. Why do we need useEffect Hook?
 
